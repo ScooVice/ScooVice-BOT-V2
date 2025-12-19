@@ -2,7 +2,7 @@
 
 [![Python](https://img.shields.io/badge/Python-3.13-blue)](https://www.python.org/)
 [![discord.py](https://img.shields.io/badge/discord.py-2.4.0-blue)](https://discordpy.readthedocs.io/)
-[![License](https://img.shields.io/badge/license-MIT-green)](LICENSE)
+[![License: GPL v3](https://img.shields.io/badge/License-GPLv3-blue.svg)](LICENSE)
 [![Version](https://img.shields.io/badge/version-2.0.0-orange)](CHANGELOG.md)
 
 > **Revolutionizing Discord Moderation** – ScooVice BOT V2 is your ultimate companion for maintaining order, fostering community, and automating server management with cutting-edge features and zero downtime.
