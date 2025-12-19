@@ -54,8 +54,8 @@ This is a **groundbreaking major update** that transforms ScooVice BOT from a si
 1. **Clone the Repository**:
 
    ```bash
-   git clone https://github.com/ScooVice/scoovice-bot-v2.git
-   cd scoovice-bot-v2
+   git clone https://github.com/ScooVice/ScooVice-BOT-V2.git
+   cd ScooVice-BOT-V2
    ```
 
 2. **Install Dependencies**:
@@ -113,8 +113,8 @@ Once running, ScooVice BOT V2 will automatically sync commands and display "List
 ## 📋 Requirements
 
 - `discord.py==2.4.0`
-- `motor==3.5.1`
-- `python-dotenv==1.0.1`
+- `python-dotenv`
+- `motor`
 
 See `requirements.txt` for full list.
 
@@ -128,7 +128,7 @@ We welcome contributions! Please:
 
 ## 📜 License
 
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
+This project is licensed under the GNU General Public License V3 - see the [LICENSE](LICENSE) file for details.
 
 ## 📈 Changelog
 
